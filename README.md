@@ -42,7 +42,7 @@ Currently, the only implemented feature is the interactive prover for prositiona
 - [ ] Re-writing the core elements in a faster language and other optimizations
 
 ## Documentation
-Fully detailed documentation can be found in the AFG Prover.pdf file. 
+Fully detailed documentation can be found in the AFG Prover.pdf file: [Documentation](https://github.com/StrahinjaT97/AFGProver/blob/main/AFG%20Prover.pdf) 
 
 ## Screenshots
 ![Screenshot 1](https://github.com/StrahinjaT97/AFGProver/blob/main/scnshot1.jpg)
