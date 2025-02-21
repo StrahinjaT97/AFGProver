@@ -45,3 +45,5 @@ Currently, the only implemented feature is the interactive prover for prositiona
 Fully detailed documentation can be found in the AFG Prover.pdf file. 
 
 ## Screenshots
+![Screenshot 1](https://github.com/StrahinjaT97/AFGProver/blob/main/scnshot1.jpg)
+![Screenshot 1](https://github.com/StrahinjaT97/AFGProver/blob/main/scnshot2.jpg)
