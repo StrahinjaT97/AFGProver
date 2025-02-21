@@ -26,20 +26,20 @@ Welcome to AFGProver, an interactive and automated theorem prover built and deve
 ## Features
 Currently, the only implemented feature is the interactive prover for prositional and first order logic based  on Gentzens Natatural Deduction system. Plans for other logic systems, as well as simple automated prover for first order logic are underway and this project will be updated accordingly.
 **Planned features:**
-[] Equality rules
-[] Naming lemmas, assumptions
-[] Adding Substition/Cut rules
-[] Importing files
-[] Custom rules
-[] Types
-[] Induction
-[] Set theory
-[] Interactive prover for Modal logics
-[] Interactive provers in other systems like: Sequent calculus, Analytical tabloux, ...
-[] Automated prover for FOL
-[] Automated importing of TPTP problems
-[] UI overhaul
-[] Re-writing the core elements in a faster language and other optimizations
+- [] Equality rules
+- [] Naming lemmas, assumptions
+- [] Adding Substition/Cut rules
+- [] Importing files
+- [] Custom rules
+- [] Types
+- [] Induction
+- [] Set theory
+- [] Interactive prover for Modal logics
+- [] Interactive provers in other systems like: Sequent calculus, Analytical tabloux, ...
+- [] Automated prover for FOL
+- [] Automated importing of TPTP problems
+- [] UI overhaul
+- [] Re-writing the core elements in a faster language and other optimizations
 
 ## Documentation
 Fully detailed documentation can be found in the AFG Prover.pdf file. 
