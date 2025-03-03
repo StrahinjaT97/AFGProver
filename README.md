@@ -20,11 +20,11 @@ Welcome to AFGProver, an interactive and automated theorem prover built and deve
 
 **Installation:**
 - Download and install Java SDK. Make sure to include javaw.exe to path!
-- Download the repositry and extract
+- Download the repository and extract
 - Double click on AFGProver.jar
 
 ## Features
-Currently, the only implemented feature is the interactive prover for prositional and first order logic based  on Gentzens Natatural Deduction system. Plans for other logic systems, as well as simple automated prover for first order logic are underway and this project will be updated accordingly.
+Currently, the only implemented feature is the interactive prover for propositional and first order logic based on Gentzens Natural Deduction system. Plans for other logic systems, as well as simple automated prover for first order logic are underway and this project will be updated accordingly.
 **Planned features:**
 - [ ] Equality rules
 - [ ] Naming lemmas, assumptions
